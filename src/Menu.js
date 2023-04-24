@@ -16,9 +16,9 @@ export default class Menu extends Component {
             <div className="user-panel mt-3 pb-3 mb-3 d-flex">
               <div className="image"></div>
               <div className="info">
-                <img src={userImg} />
+                <img src="https://images.freeimages.com/fic/images/icons/2463/glossy/512/user_female.png" />
                 <a href="#" className="d-block">
-                  Mithilesh
+                  Fiza Sheikh
                 </a>
               </div>
             </div>
